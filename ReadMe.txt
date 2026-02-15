@@ -1,0 +1,1 @@
+This is the repo which gives info about Accelerometer sensor working with aurdino.
